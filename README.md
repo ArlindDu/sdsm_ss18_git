@@ -1,1 +1,6 @@
-Hallo Welt 
+# README
+
+## Mitarbeiter
+
++ Markus Pesch
++ Arlind Dumani

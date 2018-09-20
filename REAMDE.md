@@ -1,5 +1,0 @@
-# README
-
-## Mitarbeiter
-
-+ Markus Pesch
